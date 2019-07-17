@@ -1,3 +1,15 @@
-** C#: **
-C# is a
+C#:
+~ C# is a programming language of .Net framework.
+~ C# programming includes control statements, Objects and Classes, Inheritance, Constructors, Destructors, this, static, sealed, Polymorphism,abstraction, abstract class, Interface, namespaces, encapsulation, properties, index arrays, strings, regex, exception handling, multithreading, File I/O, collections etc.
+~ C# is a powerful object oriented programming language developed by Microsoft. C# can be used to create various types of applications, such as web, windows, console applications or other types of applications using visual studio.
+~ C# is used for server side exicution for different kind of application like web, windows forms or connsole etc.
+
+
+
+
+
+C3 Keywords:
+~ C# contains reserved words, that hae special meaning for the compiler. These reserved words are called "KeyWords". Keywords cannot be used as a name (identifier, of a variable, class, interface, etc.
+
+
 
